@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=102&color=gradient&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:3a4fa3,100:7b4fa6" />
 </div>
 
 <h1 align="center">
@@ -188,5 +188,5 @@ Educational simulation of a journaling file system (Write-Ahead Logging). Quanti
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3a4fa3,100:7b4fa6" />
 </div>
