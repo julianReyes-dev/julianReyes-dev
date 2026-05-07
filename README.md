@@ -141,18 +141,14 @@ Educational simulation of a journaling file system (Write-Ahead Logging). Quanti
 ## GitHub Stats
 
 <div align="center">
-
 <a href="https://github.com/julianReyes-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianReyes-dev&show_icons=true&count_private=true&include_all_commits=true&theme=dark&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" width="450" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianReyes-dev&layout=compact&langs_count=8&theme=dark&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" width="340" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=julianReyes-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianReyes-dev&layout=compact&langs_count=8&theme=tokyonight" width="340" alt="Top Languages" />
 </a>
-
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianReyes-dev&theme=dark&background=0d1117&border=30363d&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianReyes-dev&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## Certifications
