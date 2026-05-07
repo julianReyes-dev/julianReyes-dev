@@ -42,10 +42,6 @@ const julian = {
                   "Backend Engineering", "Data Analytics & Big Data",
                   "QA & Test Automation"
                 ],
-  stack       : [
-                  "Java (Spring Boot)", "Python (Pandas/NumPy)",
-                  "TypeScript (React/Angular)", "Docker"
-                ],
   testing     : ["Selenium", "Cypress", "Playwright", "Appium"],
   credentials : ["Huawei HCIA-AI", "Huawei HCIA-Big Data", "7x Certified in 6mo"],
   languages   : { native: "Spanish (C2)", technical: "English (B2)" },
