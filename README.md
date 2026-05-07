@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=680&height=60&lines=Systems+Engineering+Student+%40+UPTC;Full+Stack+%7C+Microservices+%7C+Spring+Boot;Python+%7C+React+%7C+Docker+%7C+Kafka;Building+robust%2C+distributed+systems." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=680&height=60&lines=B.S.+in+Systems+Engineering+%26+Computing+%40+UPTC;Full+Stack+%7C+Microservices+%7C+Spring+Boot;Python+%7C+React+%7C+Docker+%7C+Kafka;AI+%7C+Big+Data+%7C+Data+Analytics;QA+Automation+%7C+Selenium+%7C+Playwright;Clean+Architecture+%7C+Distributed+Systems;Building+resilient%2C+cloud-native+solutions." />
   </a>
 </p>
 
