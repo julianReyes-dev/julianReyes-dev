@@ -1,5 +1,9 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=102&color=gradient&section=header" />
+</div>
+
 <h1 align="center">
-  Hi, Im Julian Camilo Reyes Uribe
+  Julian Camilo Reyes Uribe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
@@ -141,7 +145,17 @@ Educational simulation of a journaling file system (Write-Ahead Logging). Quanti
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianReyes-dev&theme=github_dark" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianReyes-dev&theme=dark&background=0d1117&border=30363d&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" />
+</div>
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=julianReyes-dev&theme=onedark&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -171,4 +185,8 @@ Educational simulation of a journaling file system (Write-Ahead Logging). Quanti
   <sub>
     Universidad Pedagógica y Tecnológica de Colombia · Systems and Computing Engineering · Tunja, Boyacá
   </sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </div>
