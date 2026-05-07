@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi, Im Julian Camilo Reyes Uribe
+  Hi, I'm Julian Camilo Reyes Uribe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
