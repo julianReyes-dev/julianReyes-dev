@@ -35,16 +35,29 @@
 
 ```javascript
 const julian = {
-  role     : "Systems Engineering Student — Final Semester @ UPTC",
-  location : "Tunja, Boyacá, Colombia",
-  focus    : ["Microservices", "Full Stack", "Data Analytics"],
-  learning : ["Apache Kafka", "Spring Boot", "Big Data"],
-  languages: { spoken: ["Spanish (C2)", "English (B2)"] },
-  contact  : "juliancamiloreyes117@gmail.com"
+  role        : "B.S. in Systems Engineering & Computing (Final Sem.) @ UPTC",
+  location    : "Tunja, Boyacá, Colombia 🇨🇴",
+  specialties : [
+                  "AI & Data Intelligence", "Microservices Architecture",
+                  "Backend Engineering", "Data Analytics & Big Data",
+                  "QA & Test Automation"
+                ],
+  stack       : [
+                  "Java (Spring Boot)", "Python (Pandas/NumPy)",
+                  "TypeScript (React/Angular)", "Docker"
+                ],
+  testing     : ["Selenium", "Cypress", "Playwright", "Appium"],
+  credentials : ["Huawei HCIA-AI", "Huawei HCIA-Big Data", "7x Certified in 6mo"],
+  languages   : { native: "Spanish (C2)", technical: "English (B2)" },
+  contact     : "juliancamiloreyes117@gmail.com"
 };
 ```
 
-I care about writing clean, well-documented code with an honest understanding of its trade-offs. Currently deepening my knowledge in distributed systems design, event-driven architectures, and observability.
+I am a Systems Engineer in training (Final Semester @ UPTC) focused on the intersection of scalable software architecture and data-driven intelligence. I design and build resilient, cloud-native environments using Docker, Traefik, and event-driven messaging (RabbitMQ), ensuring high-performance engineering through a 'reliability-first' mindset.
+
+I combine robust architecture with rigorous E2E testing (Selenium, Playwright, Cypress) to build scalable, high-performance solutions. I emphasize clean code and strategic design trade-offs in every implementation.
+
+Currently sharpening my focus on AI, clean architecture, and data analytics.
 
 <br clear="right"/>
 
