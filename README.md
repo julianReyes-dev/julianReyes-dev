@@ -137,7 +137,7 @@ Full-stack academic management system for universities. Covers CRUD for teachers
 
 ---
 
-### [`EpiSim`](https://github.com/julianReyes-dev/EpiSim)
+### [`EpiSim`](https://github.com/julianReyes-dev/SC-Metodo-Montecarlo-Propagacion-de-enfermedades)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 Monte Carlo simulation of the SEIR epidemic propagation model. Implements a linear congruential generator validated against six statistical tests (Kolmogorov-Smirnov, Runs, Poker, etc.), sensitivity analysis, and vaccination vs. no-vaccination comparison across 1,000 independent runs.
