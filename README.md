@@ -155,7 +155,7 @@ Educational simulation of a journaling file system (Write-Ahead Logging). Quanti
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julianReyes-dev&theme=onedark&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=julianReyes-dev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 ---
