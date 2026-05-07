@@ -55,8 +55,6 @@ I combine robust architecture with rigorous E2E testing (Selenium, Playwright, C
 
 Currently sharpening my focus on AI, clean architecture, and data analytics.
 
-<br clear="right"/>
-
 ---
 
 ## Tech Stack
